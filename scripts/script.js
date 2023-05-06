@@ -73,3 +73,4 @@ async function renderizaCards(){
     
  
 
+renderizaCards()
