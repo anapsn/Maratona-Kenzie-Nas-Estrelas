@@ -5,12 +5,13 @@ Projeto realizado conforme desenvolvimento da equipe da Kenzie, tendo um ensinam
 
 Visual Studio Code - VS Code
 
-## O projeto
+## Projeto Star Wars API
 
-o projeto consiste em
-HTML
-CSS
-JAVASCRIP
+Este é um projeto de front-end que consome a API Star Wars para exibir informações sobre personagens, filmes e outras entidades do universo Star Wars.
+
+O projeto foi construído com HTML, CSS e JavaScript, e usa a API Star Wars (https://swapi.dev/) para buscar dados e exibi-los no navegador.
+
+
 
 
 ## Referências
