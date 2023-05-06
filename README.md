@@ -1,44 +1,17 @@
 # Maratona-nas-estrelas
 
-Projeto desenvolvido para o evento Maratona Kenzie dia 06/05/2023.
-
+Projeto realizado conforme desenvolvimento da equipe da Kenzie, tendo um ensinamento de HTLM, CSS e JavaScript. Podendo consumir uma api de Star Wars para o desenvolvimento do projeto. 
 ## Ferramentas
 
-1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
-2. [Como utilizar o codepen e o VSCode](https://kenzie-academy-brasil.github.io/ferramentas/)
+Visual Studio Code - VS Code
 
 ## O projeto
 
-### Estrutura de arquivos
+o projeto consiste em
+HTLM
+CSS
+JAVASCRIP
 
-- README.md
-- index.html
-- /assets
-  - /img
-  - /styles
-    - style.css
-    - global.css
-  - /script
-    - script.js
-- /explicacao
-  - explicacao.css
-  - explicacao.html
-  - explicacao.js
-  - teste.html
-
-## Layout
-
-- [Layout Maratona nas Estrelas](https://www.figma.com/file/8czyicdQ7j0kCJXc3G06lj/Evento-Star-Wars?type=design&node-id=34-92&t=nKQPR7dFp7o6m6b2-0)
-
-## LinkedIn das Instrutoras
-
-- [Nicole Pimenta](https://www.linkedin.com/in/nicole-pimenta/)
-- [Rafael Bertoldo](https://www.linkedin.com/in/rafaeljbertoldo/)
-
-## Aulas para estudo
-
-- [Primeiros passos no HTML](https://www.youtube.com/watch?v=KoqDxb7ziA4)
-- [Primeiros passos no CSS](https://youtu.be/XautVe2dPcg)
 
 ## Referências
 
