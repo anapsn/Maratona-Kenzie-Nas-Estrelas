@@ -1,6 +1,6 @@
 # Maratona-nas-estrelas
 
-Projeto realizado conforme desenvolvimento da equipe da Kenzie, tendo um ensinamento de HTLM, CSS e JavaScript. Podendo consumir uma api de Star Wars para o desenvolvimento do projeto. 
+Projeto realizado conforme desenvolvimento da equipe da Kenzie, tendo um ensinamento de HTML, CSS e JavaScript. Podendo consumir uma api de Star Wars para o desenvolvimento do projeto. 
 ## Ferramentas
 
 Visual Studio Code - VS Code
@@ -8,7 +8,7 @@ Visual Studio Code - VS Code
 ## O projeto
 
 o projeto consiste em
-HTLM
+HTML
 CSS
 JAVASCRIP
 
